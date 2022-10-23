@@ -1,0 +1,105 @@
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\bin\Debug\net5.0-windows\ajansproje.exe
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\bin\Debug\net5.0-windows\ajansproje.deps.json
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\bin\Debug\net5.0-windows\ajansproje.runtimeconfig.json
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\bin\Debug\net5.0-windows\ajansproje.runtimeconfig.dev.json
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\bin\Debug\net5.0-windows\ajansproje.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\bin\Debug\net5.0-windows\ref\ajansproje.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\bin\Debug\net5.0-windows\ajansproje.pdb
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.csproj.AssemblyReference.cache
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Form1.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.MusteriGiris.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.csproj.GenerateResource.cache
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.AssemblyInfoInputs.cache
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.AssemblyInfo.cs
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.csproj.CoreCompileInputs.cache
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.csproj.CopyComplete
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ref\ajansproje.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.pdb
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.genruntimeconfig.cache
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.YoneticiGiris.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Yoneticiİslem.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Musteriİslem.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Akgun.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Oyuncular.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Properties.Resources.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Polat.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.KvOyuncu.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Hafsanur.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Ozgu.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.LsOyuncular.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Ekleİslem.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Oktay.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Guncelle.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Musteriler.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Sil.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.GorusmeGoruntule.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\bin\Debug\net5.0-windows\ajansproje.exe
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\bin\Debug\net5.0-windows\ajansproje.deps.json
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\bin\Debug\net5.0-windows\ajansproje.runtimeconfig.json
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\bin\Debug\net5.0-windows\ajansproje.runtimeconfig.dev.json
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\bin\Debug\net5.0-windows\ajansproje.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\bin\Debug\net5.0-windows\ref\ajansproje.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\bin\Debug\net5.0-windows\ajansproje.pdb
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.csproj.AssemblyReference.cache
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Akgun.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Ekleİslem.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Form1.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.GorusmeGoruntule.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Guncelle.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Hafsanur.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.KvOyuncu.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.LsOyuncular.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.MusteriGiris.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Musteriler.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Musteriİslem.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Oktay.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Oyuncular.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Ozgu.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Polat.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Properties.Resources.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Sil.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.YoneticiGiris.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Yoneticiİslem.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.csproj.GenerateResource.cache
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.AssemblyInfoInputs.cache
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.AssemblyInfo.cs
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.csproj.CoreCompileInputs.cache
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.csproj.CopyComplete
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ref\ajansproje.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.pdb
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.genruntimeconfig.cache
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Halil.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.AliAtay.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Fundaeryigit.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.ErhanUfak.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.GürkanUygun.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.BarışFalay.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Burcinterzioglu.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Cansudere.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.EzelOyuncular.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Kenanimirzalioglu.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.TuncelKurtiz.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Arifpiskin.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Nihatnikerel.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Sarpakkaya.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Yigitozsener.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Yunusnarin.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.İstemibetil.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.DiziEkle.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\ajansproje\ajansproje\obj\Debug\net5.0-windows\ajansproje.Rated.resources

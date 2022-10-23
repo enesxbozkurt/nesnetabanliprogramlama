@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ikilik_tabani_onluk_tabana_ceviren_program/1.0.0": {
+        "runtime": {
+          "ikilik_tabani_onluk_tabana_ceviren_program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ikilik_tabani_onluk_tabana_ceviren_program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

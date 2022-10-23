@@ -1,0 +1,9 @@
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\class_fonksiyon_dizi\class_fonksiyon_dizi\bin\Debug\class_fonksiyon_dizi.exe.config
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\class_fonksiyon_dizi\class_fonksiyon_dizi\bin\Debug\class_fonksiyon_dizi.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\class_fonksiyon_dizi\class_fonksiyon_dizi\bin\Debug\class_fonksiyon_dizi.pdb
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\class_fonksiyon_dizi\class_fonksiyon_dizi\obj\Debug\class_fonksiyon_dizi.csprojResolveAssemblyReference.cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\class_fonksiyon_dizi\class_fonksiyon_dizi\obj\Debug\class_fonksiyon_dizi.Form1.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\class_fonksiyon_dizi\class_fonksiyon_dizi\obj\Debug\class_fonksiyon_dizi.Properties.Resources.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\class_fonksiyon_dizi\class_fonksiyon_dizi\obj\Debug\class_fonksiyon_dizi.csproj.GenerateResource.Cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\class_fonksiyon_dizi\class_fonksiyon_dizi\obj\Debug\class_fonksiyon_dizi.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\class_fonksiyon_dizi\class_fonksiyon_dizi\obj\Debug\class_fonksiyon_dizi.pdb

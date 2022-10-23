@@ -1,0 +1,56 @@
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\kullanici_giris_form_hh.exe
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\kullanici_giris_form_hh.deps.json
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\kullanici_giris_form_hh.runtimeconfig.json
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\kullanici_giris_form_hh.runtimeconfig.dev.json
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\kullanici_giris_form_hh.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\ref\kullanici_giris_form_hh.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\kullanici_giris_form_hh.pdb
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.csproj.AssemblyReference.cache
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.Form1.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.yenikayit.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.csproj.GenerateResource.cache
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.AssemblyInfoInputs.cache
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.AssemblyInfo.cs
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.csproj.CoreCompileInputs.cache
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.csproj.CopyComplete
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\ref\kullanici_giris_form_hh.dll
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.pdb
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.genruntimeconfig.cache
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.giris.resources
+C:\Users\Artı Mekanik\Desktop\Halil Rıfat Paşa c\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.menu.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\kullanici_giris_form_hh.exe
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\kullanici_giris_form_hh.deps.json
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\kullanici_giris_form_hh.runtimeconfig.json
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\kullanici_giris_form_hh.runtimeconfig.dev.json
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\kullanici_giris_form_hh.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\ref\kullanici_giris_form_hh.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\kullanici_giris_form_hh.pdb
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.csproj.AssemblyReference.cache
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.Form1.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.giris.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.menu.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.yenikayit.resources
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.csproj.GenerateResource.cache
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.AssemblyInfoInputs.cache
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.AssemblyInfo.cs
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.csproj.CoreCompileInputs.cache
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.csproj.CopyComplete
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\ref\kullanici_giris_form_hh.dll
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.pdb
+C:\Users\Artı Mekanik\Documents\GitHub\11bsinifi-enesxbozkurt10\Nesne Tabanlı Programlama\2.Dönem\kullanici_giris_form_hh\kullanici_giris_form_hh\obj\Debug\net5.0-windows\kullanici_giris_form_hh.genruntimeconfig.cache

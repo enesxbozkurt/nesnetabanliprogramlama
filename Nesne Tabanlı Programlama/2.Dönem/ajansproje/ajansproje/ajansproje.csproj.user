@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Akgun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AliAtay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Arifpiskin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BarışFalay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Burcinterzioglu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cansudere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DiziEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ekleİslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ErhanUfak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EzelOyuncular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fundaeryigit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GorusmeGoruntule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Guncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GürkanUygun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hafsanur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Halil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kenanimirzalioglu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KvOyuncu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musteriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musteriİslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LsOyuncular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nihatnikerel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Oktay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Oyuncular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ozgu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Polat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rated.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sarpakkaya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TuncelKurtiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Yigitozsener.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YoneticiGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Yoneticiİslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Yunusnarin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="İstemibetil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

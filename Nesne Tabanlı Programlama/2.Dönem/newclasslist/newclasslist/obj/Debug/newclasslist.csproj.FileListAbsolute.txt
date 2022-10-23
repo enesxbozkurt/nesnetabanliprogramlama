@@ -1,0 +1,9 @@
+C:\Users\LAB5-OGRETMEN\Desktop\newclasslist\newclasslist\bin\Debug\newclasslist.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\newclasslist\newclasslist\bin\Debug\newclasslist.exe
+C:\Users\LAB5-OGRETMEN\Desktop\newclasslist\newclasslist\bin\Debug\newclasslist.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\newclasslist\newclasslist\obj\Debug\newclasslist.csprojResolveAssemblyReference.cache
+C:\Users\LAB5-OGRETMEN\Desktop\newclasslist\newclasslist\obj\Debug\newclasslist.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\newclasslist\newclasslist\obj\Debug\newclasslist.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\newclasslist\newclasslist\obj\Debug\newclasslist.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\newclasslist\newclasslist\obj\Debug\newclasslist.exe
+C:\Users\LAB5-OGRETMEN\Desktop\newclasslist\newclasslist\obj\Debug\newclasslist.pdb

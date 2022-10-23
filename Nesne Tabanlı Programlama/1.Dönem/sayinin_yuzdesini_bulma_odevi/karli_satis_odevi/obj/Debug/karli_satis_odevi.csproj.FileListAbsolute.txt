@@ -1,0 +1,8 @@
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\karli_satis_odevi\karli_satis_odevi\bin\Debug\karli_satis_odevi.exe.config
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\karli_satis_odevi\karli_satis_odevi\bin\Debug\karli_satis_odevi.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\karli_satis_odevi\karli_satis_odevi\bin\Debug\karli_satis_odevi.pdb
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\karli_satis_odevi\karli_satis_odevi\obj\Debug\karli_satis_odevi.Form1.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\karli_satis_odevi\karli_satis_odevi\obj\Debug\karli_satis_odevi.Properties.Resources.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\karli_satis_odevi\karli_satis_odevi\obj\Debug\karli_satis_odevi.csproj.GenerateResource.Cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\karli_satis_odevi\karli_satis_odevi\obj\Debug\karli_satis_odevi.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\karli_satis_odevi\karli_satis_odevi\obj\Debug\karli_satis_odevi.pdb

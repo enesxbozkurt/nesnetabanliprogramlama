@@ -1,0 +1,10 @@
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\buton_calismasi_21032022\buton_calismasi_21032022\bin\Debug\buton_calismasi_21032022.exe.config
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\buton_calismasi_21032022\buton_calismasi_21032022\bin\Debug\buton_calismasi_21032022.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\buton_calismasi_21032022\buton_calismasi_21032022\bin\Debug\buton_calismasi_21032022.pdb
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\buton_calismasi_21032022\buton_calismasi_21032022\obj\Debug\buton_calismasi_21032022.csprojResolveAssemblyReference.cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\buton_calismasi_21032022\buton_calismasi_21032022\obj\Debug\buton_calismasi_21032022.Form1.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\buton_calismasi_21032022\buton_calismasi_21032022\obj\Debug\buton_calismasi_21032022.koltuksec.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\buton_calismasi_21032022\buton_calismasi_21032022\obj\Debug\buton_calismasi_21032022.Properties.Resources.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\buton_calismasi_21032022\buton_calismasi_21032022\obj\Debug\buton_calismasi_21032022.csproj.GenerateResource.Cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\buton_calismasi_21032022\buton_calismasi_21032022\obj\Debug\buton_calismasi_21032022.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\buton_calismasi_21032022\buton_calismasi_21032022\obj\Debug\buton_calismasi_21032022.pdb

@@ -1,0 +1,9 @@
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\mtv_hesaplama_odevi\mtv_hesaplama_odevi\bin\Debug\mtv_hesaplama_odevi.exe.config
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\mtv_hesaplama_odevi\mtv_hesaplama_odevi\bin\Debug\mtv_hesaplama_odevi.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\mtv_hesaplama_odevi\mtv_hesaplama_odevi\bin\Debug\mtv_hesaplama_odevi.pdb
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\mtv_hesaplama_odevi\mtv_hesaplama_odevi\obj\Debug\mtv_hesaplama_odevi.csprojResolveAssemblyReference.cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\mtv_hesaplama_odevi\mtv_hesaplama_odevi\obj\Debug\mtv_hesaplama_odevi.Form1.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\mtv_hesaplama_odevi\mtv_hesaplama_odevi\obj\Debug\mtv_hesaplama_odevi.Properties.Resources.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\mtv_hesaplama_odevi\mtv_hesaplama_odevi\obj\Debug\mtv_hesaplama_odevi.csproj.GenerateResource.Cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\mtv_hesaplama_odevi\mtv_hesaplama_odevi\obj\Debug\mtv_hesaplama_odevi.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\mtv_hesaplama_odevi\mtv_hesaplama_odevi\obj\Debug\mtv_hesaplama_odevi.pdb

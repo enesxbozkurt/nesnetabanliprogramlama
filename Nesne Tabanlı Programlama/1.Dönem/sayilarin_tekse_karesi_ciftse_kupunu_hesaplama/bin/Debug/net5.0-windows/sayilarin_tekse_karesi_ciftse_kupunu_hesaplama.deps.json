@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sayilarin_tekse_karesi_ciftse_kupunu_hesaplama/1.0.0": {
+        "runtime": {
+          "sayilarin_tekse_karesi_ciftse_kupunu_hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sayilarin_tekse_karesi_ciftse_kupunu_hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

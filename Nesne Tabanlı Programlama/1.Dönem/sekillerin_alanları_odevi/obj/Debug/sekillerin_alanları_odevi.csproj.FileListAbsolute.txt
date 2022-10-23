@@ -1,0 +1,9 @@
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sekillerin_alanları_odevi\sekillerin_alanları_odevi\bin\Debug\sekillerin_alanları_odevi.exe.config
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sekillerin_alanları_odevi\sekillerin_alanları_odevi\obj\Debug\sekillerin_alanları_odevi.csprojResolveAssemblyReference.cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sekillerin_alanları_odevi\sekillerin_alanları_odevi\obj\Debug\sekillerin_alanları_odevi.Form1.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sekillerin_alanları_odevi\sekillerin_alanları_odevi\obj\Debug\sekillerin_alanları_odevi.Properties.Resources.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sekillerin_alanları_odevi\sekillerin_alanları_odevi\obj\Debug\sekillerin_alanları_odevi.csproj.GenerateResource.Cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sekillerin_alanları_odevi\sekillerin_alanları_odevi\bin\Debug\sekillerin_alanları_odevi.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sekillerin_alanları_odevi\sekillerin_alanları_odevi\bin\Debug\sekillerin_alanları_odevi.pdb
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sekillerin_alanları_odevi\sekillerin_alanları_odevi\obj\Debug\sekillerin_alanları_odevi.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sekillerin_alanları_odevi\sekillerin_alanları_odevi\obj\Debug\sekillerin_alanları_odevi.pdb

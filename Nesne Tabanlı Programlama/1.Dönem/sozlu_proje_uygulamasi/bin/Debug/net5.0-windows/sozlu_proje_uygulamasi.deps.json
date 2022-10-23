@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sozlu_proje_uygulamasi/1.0.0": {
+        "runtime": {
+          "sozlu_proje_uygulamasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sozlu_proje_uygulamasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

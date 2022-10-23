@@ -1,0 +1,8 @@
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sayinin_yuzdesini_bulma_odevi\sayinin_yuzdesini_bulma_odevi\bin\Debug\sayinin_yuzdesini_bulma_odevi.exe.config
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sayinin_yuzdesini_bulma_odevi\sayinin_yuzdesini_bulma_odevi\bin\Debug\sayinin_yuzdesini_bulma_odevi.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sayinin_yuzdesini_bulma_odevi\sayinin_yuzdesini_bulma_odevi\bin\Debug\sayinin_yuzdesini_bulma_odevi.pdb
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sayinin_yuzdesini_bulma_odevi\sayinin_yuzdesini_bulma_odevi\obj\Debug\sayinin_yuzdesini_bulma_odevi.Form1.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sayinin_yuzdesini_bulma_odevi\sayinin_yuzdesini_bulma_odevi\obj\Debug\sayinin_yuzdesini_bulma_odevi.Properties.Resources.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sayinin_yuzdesini_bulma_odevi\sayinin_yuzdesini_bulma_odevi\obj\Debug\sayinin_yuzdesini_bulma_odevi.csproj.GenerateResource.Cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sayinin_yuzdesini_bulma_odevi\sayinin_yuzdesini_bulma_odevi\obj\Debug\sayinin_yuzdesini_bulma_odevi.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sayinin_yuzdesini_bulma_odevi\sayinin_yuzdesini_bulma_odevi\obj\Debug\sayinin_yuzdesini_bulma_odevi.pdb

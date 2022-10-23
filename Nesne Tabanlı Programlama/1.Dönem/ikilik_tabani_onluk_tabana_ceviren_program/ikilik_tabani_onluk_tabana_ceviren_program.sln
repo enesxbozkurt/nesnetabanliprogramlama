@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ikilik_tabani_onluk_tabana_ceviren_program", "ikilik_tabani_onluk_tabana_ceviren_program\ikilik_tabani_onluk_tabana_ceviren_program.csproj", "{6EB3A6E3-B897-41A7-82F0-F598C2E78BB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB3A6E3-B897-41A7-82F0-F598C2E78BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB3A6E3-B897-41A7-82F0-F598C2E78BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB3A6E3-B897-41A7-82F0-F598C2E78BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB3A6E3-B897-41A7-82F0-F598C2E78BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DE8646D-9E75-47A6-A1CA-84454DF14F02}
+	EndGlobalSection
+EndGlobal

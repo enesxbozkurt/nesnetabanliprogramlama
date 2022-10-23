@@ -1,0 +1,9 @@
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sql_ile_dort_sorgu_islemleri\sql_ile_dort_sorgu_islemleri\bin\Debug\sql_ile_dort_sorgu_islemleri.exe.config
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sql_ile_dort_sorgu_islemleri\sql_ile_dort_sorgu_islemleri\bin\Debug\sql_ile_dort_sorgu_islemleri.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sql_ile_dort_sorgu_islemleri\sql_ile_dort_sorgu_islemleri\bin\Debug\sql_ile_dort_sorgu_islemleri.pdb
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sql_ile_dort_sorgu_islemleri\sql_ile_dort_sorgu_islemleri\obj\Debug\sql_ile_dort_sorgu_islemleri.csprojResolveAssemblyReference.cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sql_ile_dort_sorgu_islemleri\sql_ile_dort_sorgu_islemleri\obj\Debug\sql_ile_dort_sorgu_islemleri.Form1.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sql_ile_dort_sorgu_islemleri\sql_ile_dort_sorgu_islemleri\obj\Debug\sql_ile_dort_sorgu_islemleri.Properties.Resources.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sql_ile_dort_sorgu_islemleri\sql_ile_dort_sorgu_islemleri\obj\Debug\sql_ile_dort_sorgu_islemleri.csproj.GenerateResource.Cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sql_ile_dort_sorgu_islemleri\sql_ile_dort_sorgu_islemleri\obj\Debug\sql_ile_dort_sorgu_islemleri.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sql_ile_dort_sorgu_islemleri\sql_ile_dort_sorgu_islemleri\obj\Debug\sql_ile_dort_sorgu_islemleri.pdb

@@ -1,0 +1,9 @@
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\3'e_ve_5'e_bolunme_odevi\3'e_ve_5'e_bolunme_odevi\bin\Debug\3'e_ve_5'e_bolunme_odevi.exe.config
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\3'e_ve_5'e_bolunme_odevi\3'e_ve_5'e_bolunme_odevi\bin\Debug\3'e_ve_5'e_bolunme_odevi.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\3'e_ve_5'e_bolunme_odevi\3'e_ve_5'e_bolunme_odevi\bin\Debug\3'e_ve_5'e_bolunme_odevi.pdb
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\3'e_ve_5'e_bolunme_odevi\3'e_ve_5'e_bolunme_odevi\obj\Debug\3'e_ve_5'e_bolunme_odevi.csprojResolveAssemblyReference.cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\3'e_ve_5'e_bolunme_odevi\3'e_ve_5'e_bolunme_odevi\obj\Debug\_3_e_ve_5_e_bolunme_odevi.Form1.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\3'e_ve_5'e_bolunme_odevi\3'e_ve_5'e_bolunme_odevi\obj\Debug\_3_e_ve_5_e_bolunme_odevi.Properties.Resources.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\3'e_ve_5'e_bolunme_odevi\3'e_ve_5'e_bolunme_odevi\obj\Debug\3'e_ve_5'e_bolunme_odevi.csproj.GenerateResource.Cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\3'e_ve_5'e_bolunme_odevi\3'e_ve_5'e_bolunme_odevi\obj\Debug\3'e_ve_5'e_bolunme_odevi.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\3'e_ve_5'e_bolunme_odevi\3'e_ve_5'e_bolunme_odevi\obj\Debug\3'e_ve_5'e_bolunme_odevi.pdb

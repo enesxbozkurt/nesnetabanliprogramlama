@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "kodsuz_button_olusturma/1.0.0": {
+        "runtime": {
+          "kodsuz_button_olusturma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kodsuz_button_olusturma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

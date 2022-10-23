@@ -1,0 +1,9 @@
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sql_ile_veri_listeleme\sql_ile_veri_listeleme\bin\Debug\sql_ile_veri_listeleme.exe.config
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sql_ile_veri_listeleme\sql_ile_veri_listeleme\bin\Debug\sql_ile_veri_listeleme.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sql_ile_veri_listeleme\sql_ile_veri_listeleme\bin\Debug\sql_ile_veri_listeleme.pdb
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sql_ile_veri_listeleme\sql_ile_veri_listeleme\obj\Debug\sql_ile_veri_listeleme.csprojResolveAssemblyReference.cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sql_ile_veri_listeleme\sql_ile_veri_listeleme\obj\Debug\sql_ile_veri_listeleme.Form1.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sql_ile_veri_listeleme\sql_ile_veri_listeleme\obj\Debug\sql_ile_veri_listeleme.Properties.Resources.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sql_ile_veri_listeleme\sql_ile_veri_listeleme\obj\Debug\sql_ile_veri_listeleme.csproj.GenerateResource.Cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sql_ile_veri_listeleme\sql_ile_veri_listeleme\obj\Debug\sql_ile_veri_listeleme.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\sql_ile_veri_listeleme\sql_ile_veri_listeleme\obj\Debug\sql_ile_veri_listeleme.pdb

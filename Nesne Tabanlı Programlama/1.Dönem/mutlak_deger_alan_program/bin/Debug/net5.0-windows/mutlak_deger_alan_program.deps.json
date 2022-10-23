@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "mutlak_deger_alan_program/1.0.0": {
+        "runtime": {
+          "mutlak_deger_alan_program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mutlak_deger_alan_program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

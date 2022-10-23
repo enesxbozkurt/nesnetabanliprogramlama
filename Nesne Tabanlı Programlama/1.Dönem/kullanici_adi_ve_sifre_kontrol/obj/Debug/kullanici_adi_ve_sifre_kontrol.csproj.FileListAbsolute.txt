@@ -1,0 +1,9 @@
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\kullanici_adi_ve_sifre_kontrol\kullanici_adi_ve_sifre_kontrol\bin\Debug\kullanici_adi_ve_sifre_kontrol.exe.config
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\kullanici_adi_ve_sifre_kontrol\kullanici_adi_ve_sifre_kontrol\obj\Debug\kullanici_adi_ve_sifre_kontrol.csprojResolveAssemblyReference.cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\kullanici_adi_ve_sifre_kontrol\kullanici_adi_ve_sifre_kontrol\obj\Debug\kullanici_adi_ve_sifre_kontrol.Form1.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\kullanici_adi_ve_sifre_kontrol\kullanici_adi_ve_sifre_kontrol\obj\Debug\kullanici_adi_ve_sifre_kontrol.Properties.Resources.resources
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\kullanici_adi_ve_sifre_kontrol\kullanici_adi_ve_sifre_kontrol\obj\Debug\kullanici_adi_ve_sifre_kontrol.csproj.GenerateResource.Cache
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\kullanici_adi_ve_sifre_kontrol\kullanici_adi_ve_sifre_kontrol\bin\Debug\kullanici_adi_ve_sifre_kontrol.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\kullanici_adi_ve_sifre_kontrol\kullanici_adi_ve_sifre_kontrol\bin\Debug\kullanici_adi_ve_sifre_kontrol.pdb
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\kullanici_adi_ve_sifre_kontrol\kullanici_adi_ve_sifre_kontrol\obj\Debug\kullanici_adi_ve_sifre_kontrol.exe
+c:\users\lab5-ogretmen\documents\visual studio 2012\Projects\kullanici_adi_ve_sifre_kontrol\kullanici_adi_ve_sifre_kontrol\obj\Debug\kullanici_adi_ve_sifre_kontrol.pdb
